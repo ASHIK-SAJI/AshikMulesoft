@@ -1,0 +1,3 @@
+INSERT INTO `` (`MovieID`,`MovieName`,`Actor`,`Actress`,`year of release`,`Director`) VALUES (1,'conjuring','patrick wilson','vera farmiga,2013,'james wan');
+INSERT INTO `` (`MovieID`,`MovieName`,`Actor , Actress`,`year of release`,`Director`) VALUES (2,'spiderman','tom holand','Zendaya',2019,'john watts');
+INSERT INTO `` (`MovieID`,`MovieName`,`Actor`,`Actress`,`year of release`,`Director`) VALUES (3,'Avengers','Robert Downey Jr.','Scarlett Johansson',2018,'Russo Brothers');
